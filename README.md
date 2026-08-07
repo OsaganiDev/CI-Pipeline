@@ -197,41 +197,20 @@ The self-hosted runner allows GitHub Actions to execute deployment commands dire
 
 ---
 
-# 📸 Screenshots
+# 📸 Demo & Screenshots
 
-## GitHub Actions Successful Pipeline
+## GitHub Actions CI/CD Pipeline Demonstration
 
-*Add GitHub Actions screenshot here*
+## 📸 Demo & Screenshots
 
-Example:
+| Demo | Screenshot |
+|------|------------|
+| **⚙️ GitHub Actions Workflow** | <img src="https://github.com/user-attachments/assets/91647e33-ff72-4318-aac6-da925b753fa7" width="380"/> |
+| **🖥️ Self-Hosted Runner Connection** | <img src="https://github.com/user-attachments/assets/677956ce-dd60-40c8-94eb-e31f577acda9" width="380"/> |
+| **☁️ AWS EC2 Deployment** | <img src="https://github.com/user-attachments/assets/e82fc478-7abd-4516-b40b-b56ca1a8a187" width="380"/> |
+| **🚀 Spring Boot Application** | <img src="https://github.com/user-attachments/assets/598f68a6-c19d-408a-bd64-cf54881cd463" width="380"/> |
+| **🏃 GitHub Self-Hosted Runner** | <img src="https://github.com/user-attachments/assets/54cbc69c-0fdc-4085-acc2-e7f1daa43d7f" width="380"/> |
 
-```
-![GitHub Actions Success](screenshots/github-actions-success.png)
-```
-
----
-
-## AWS EC2 Deployment
-
-*Add EC2 deployment screenshot here*
-
-Example:
-
-```
-![EC2 Deployment](screenshots/ec2-deployment.png)
-```
-
----
-
-## Running Spring Boot Application
-
-*Add running application screenshot here*
-
-Example:
-
-```
-![Spring Boot Running](screenshots/application-running.png)
-```
 
 ---
 
